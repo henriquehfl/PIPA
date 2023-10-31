@@ -59,7 +59,7 @@ header h1 {
         overflow: hidden;
     }
     .container-3 img {
-        border-radius: 0px;
+        border-radius: 20px;
         width: 100%;
     }
 }
@@ -158,4 +158,21 @@ footer {
     background-color: #444;
     position: relative;
     bottom: 0;
+}
+
+.form{
+    padding: 50px 0px;
+}
+
+.form h2{
+    font-size: 36px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.form a{
+    font-size: 18px;
+    font-weight: bold;
 }
