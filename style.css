@@ -176,3 +176,9 @@ footer {
     font-size: 18px;
     font-weight: bold;
 }
+
+.bolder{
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 3px;
+}
